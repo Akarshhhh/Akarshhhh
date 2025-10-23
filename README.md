@@ -4,7 +4,6 @@
 🎓 B.Tech in Computer Science  
 💼 Software Engineer with 2 years of experience  
 🧠 Interests: AI, Machine Learning  
-🔭 Research Experience: 2 projects (no publications yet)  
 🌱 Currently learning: Deep Learning  
 
 📫 How to reach me:  
